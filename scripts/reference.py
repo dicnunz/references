@@ -211,9 +211,12 @@ def run(args, db, records):
                     if v: counts[field][v] = counts[field].get(v, 0) + 1
         neighborhoods = discovery_counts(db, records)
         candidates = []
+        inspections = {}
         for ident, r in records.items():
             if ident in selected_elsewhere and ident not in continuity and not args.reuse_reason: continue
-            text = ' '.join(str(r.get(f, '')) for f in ('title', 'medium', 'tags', 'applications', 'inspection', 'family', 'creators'))
+            # Match and expose one authoritative inspection snapshot, including blocked states.
+            inspections[ident] = latest_inspection(db, ident, r)
+            text = ' '.join(str(inspections[ident] if f == 'inspection' else r.get(f, '')) for f in ('title', 'medium', 'tags', 'applications', 'inspection', 'family', 'creators'))
             overlap = tokens & words(text)
             if tokens and not overlap: continue
             candidates.append((len(overlap), ident, r, sorted(overlap)))
@@ -225,7 +228,7 @@ def run(args, db, records):
                 return (-relevance, -int(ident in continuity), penalty, ident)
             candidates.sort(key=rank)
             relevance, ident, r, matched = candidates.pop(0)
-            result.append(dict(compact(r), matched_terms=matched, same_project=ident in continuity, inspection_status=latest_inspection(db, ident, r).get('status', 'discovery'), identity_status=r.get('identity_status', 'provided')))
+            result.append(dict(compact(r, inspections[ident]), matched_terms=matched, same_project=ident in continuity, inspection_status=inspections[ident].get('status', 'discovery'), identity_status=r.get('identity_status', 'provided')))
             for field in counts:
                 vals = r.get(field, []) if field == 'creators' else [r.get(field)]
                 for v in vals:
