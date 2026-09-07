@@ -1,0 +1,15 @@
+{
+  "verifier": "coordinator, independent of artifact builders; not blind to arm",
+  "checks": {
+    "desktop": "1440x900 viewed and full-page screenshot saved",
+    "mobile": "390x844 viewed; scrollWidth=clientWidth=390",
+    "required_copy": "All supplied strings present in DOM; curatorial paragraph under70words",
+    "print": "Chrome printToPDF with CSS page size: one A4 portrait page; raster preview visually inspected, no clipping observed",
+    "interaction": "Print output exercised through browser print engine; button handler inspected separately if needed"
+  },
+  "observation": "Time and address appear above the curatorial paragraph on mobile. Bring-an-object copy and free admission are below the 48-button illustration, requiring scrolling.",
+  "limitations": [
+    "No physical print made",
+    "Visual judgment left to blind critics"
+  ]
+}

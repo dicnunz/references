@@ -1,0 +1,3 @@
+Supplied brief: fictional firing dates, capacity, eligibility, allocation and session-only behavior.
+GOV.UK Design System, Check answers: https://design-system.service.gov.uk/patterns/check-answers/ (accessed 2026-09-07). Inspected the example HTML and page text. Adapted labelled summary rows and an explicit correction route to the local confirmation. Did not inspect the live example visually.
+Original inline kiln illustration; no external image assets, fonts or runtime dependencies.

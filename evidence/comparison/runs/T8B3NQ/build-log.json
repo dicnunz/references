@@ -1,0 +1,11 @@
+{
+  "start_utc": "2026-09-07T01:48:31Z",
+  "end_utc": "2026-09-07T01:50:42.853408+00:00",
+  "reference": "rijksmuseum:200593855",
+  "artifact": "index.html",
+  "checks": {
+    "button_count": 48,
+    "curatorial_word_count": 58,
+    "required_copy": true
+  }
+}

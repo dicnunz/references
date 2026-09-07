@@ -1,0 +1,168 @@
+[
+  {
+    "brief": "B01",
+    "arm": "baseline",
+    "label": "DKDYEC",
+    "builder_log": {
+      "start_utc": "2026-09-07 01:48:19 UTC",
+      "end_utc": "2026-09-07 01:50:44 UTC",
+      "checks": [
+        "Required copy present",
+        "Curatorial paragraph under 70 words",
+        "Inline CSS and SVG; no remote dependencies"
+      ],
+      "curatorial_word_count": 51
+    }
+  },
+  {
+    "brief": "B01",
+    "arm": "reference-work",
+    "label": "T8B3NQ",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:48:31Z",
+      "end_utc": "2026-09-07T01:50:42.853408+00:00",
+      "reference": "rijksmuseum:200593855",
+      "artifact": "index.html",
+      "checks": {
+        "button_count": 48,
+        "curatorial_word_count": 58,
+        "required_copy": true
+      }
+    }
+  },
+  {
+    "brief": "B02",
+    "arm": "baseline",
+    "label": "RUX8EF",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:51:19Z",
+      "end_utc": "2026-09-07T01:53:27.528623+00:00",
+      "external_sources_consulted": false
+    }
+  },
+  {
+    "brief": "B02",
+    "arm": "reference-work",
+    "label": "367C3G",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:51:31Z",
+      "end_utc": "2026-09-07T01:53:54.498467+00:00",
+      "checks": [
+        "Three numbered diagrams with fixed lower and upper levels",
+        "Inline SVG, CSS and JavaScript; no runtime dependencies",
+        "Responsive single-column sequence at narrow viewport"
+      ],
+      "verification_limit": "Shared browser verification assigned to independent coordinator"
+    }
+  },
+  {
+    "brief": "B03",
+    "arm": "baseline",
+    "label": "C3Q44W",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:54:05Z",
+      "end_utc": "2026-09-07T01:56:41.387248+00:00",
+      "external_sources_consulted": false,
+      "checks": [
+        "Eight source records present",
+        "Responsive viewport present"
+      ],
+      "browser_verification": "Reserved for independent coordinator"
+    }
+  },
+  {
+    "brief": "B03",
+    "arm": "reference-work",
+    "label": "UK7M9F",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:54:31Z",
+      "end_utc": "2026-09-07T01:57:06.516732+00:00",
+      "artifact": "index.html"
+    }
+  },
+  {
+    "brief": "B04",
+    "arm": "baseline",
+    "label": "JP7XJC",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:57:09Z",
+      "end_utc": "2026-09-07T01:59:19Z",
+      "elapsed_seconds": 130,
+      "validation": "Inline JavaScript parsed with Node new Function. Browser verification left to coordinator."
+    }
+  },
+  {
+    "brief": "B04",
+    "arm": "reference-work",
+    "label": "JCZXVT",
+    "builder_log": {
+      "start_utc": "2026-09-07T01:57:53Z",
+      "end_utc": "2026-09-07T02:00:32.924466+00:00",
+      "files": [
+        "index.html",
+        "sources.txt"
+      ],
+      "verification": "Source inspection of validation branches, populated edit path, semantic native controls; browser verification delegated to coordinator.",
+      "javascript_syntax_exit_code": 0
+    }
+  },
+  {
+    "brief": "B04",
+    "arm": "frontend-design",
+    "label": "TZ83KQ",
+    "builder_log": {
+      "start_utc": "2026-09-07T02:00:14Z",
+      "end_utc": "2026-09-07T02:02:15.149104+00:00",
+      "external_sources_consulted": false
+    }
+  },
+  {
+    "brief": "B05",
+    "arm": "baseline",
+    "label": "FEPW4X",
+    "builder_log": {
+      "start_utc": "2026-09-07T02:11:06+00:00",
+      "end_utc": "2026-09-07T02:14:01.172134+00:00",
+      "elapsed_seconds": 175.172
+    }
+  },
+  {
+    "brief": "B05",
+    "arm": "reference-work",
+    "label": "9R3CZK",
+    "builder_log": {
+      "start_utc": "2026-09-07T02:11:27+00:00",
+      "end_utc": "2026-09-07T02:14:25.111488+00:00",
+      "elapsed_seconds": 178.111488,
+      "validation": "JavaScript syntax checked with node --check; visual and interaction rendering deferred to coordinator"
+    }
+  },
+  {
+    "brief": "B06",
+    "arm": "reference-work",
+    "label": "S36TTM",
+    "builder_log": {
+      "start_utc": "2026-09-07T02:14:26+00:00",
+      "end_utc": "2026-09-07T02:17:05.988328+00:00",
+      "elapsed_seconds": 159.988328,
+      "validation": "SVG XML parsed successfully. All four panel dimensions and offsets, A4 physical size, required copy and static print rules checked. No browser or physical assembly test.",
+      "artifact": "index.html"
+    }
+  },
+  {
+    "brief": "B06",
+    "arm": "baseline",
+    "label": "T3HZ57",
+    "builder_log": {
+      "start_utc": "2026-09-07T02:14:35+00:00",
+      "end_utc": "2026-09-07T02:16:52.879611+00:00",
+      "elapsed_seconds": 137.879611,
+      "checks": [
+        "SVG parses as XML",
+        "A4 physical SVG dimensions",
+        "Four contiguous panels have required dimensions",
+        "Required specimen copy present"
+      ]
+    }
+  }
+]

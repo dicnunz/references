@@ -1,0 +1,48 @@
+{
+  "frozen_at_utc": "2026-09-07T01:20:51.822476+00:00",
+  "status": "FROZEN BEFORE SKILL IMPLEMENTATION",
+  "briefs": [
+    {
+      "id": "B01",
+      "file": "B01.md",
+      "dimension": "meaning-expression",
+      "held_out_from_implementation": false,
+      "sha256": "04b6261f7de35a754ada5be1895d372be296691b782a1ee7229eb58c52bc33fc"
+    },
+    {
+      "id": "B02",
+      "file": "B02.md",
+      "dimension": "explanation",
+      "held_out_from_implementation": false,
+      "sha256": "4b2584658d82837b3d89de8198de1f9dcb7d62109fd3fe45022ecdf8da2fbf09"
+    },
+    {
+      "id": "B03",
+      "file": "B03.md",
+      "dimension": "organization",
+      "held_out_from_implementation": false,
+      "sha256": "f61a0e1dc39d1420bc8a9d191916386942822ba41b3154bb15d196223eaeccdf"
+    },
+    {
+      "id": "B04",
+      "file": "B04.md",
+      "dimension": "interaction",
+      "held_out_from_implementation": false,
+      "sha256": "2a4e765a3a7676dac5f11d7251f8ce8e4b9797e44392220916082ceff6736775"
+    },
+    {
+      "id": "B05",
+      "file": "B05.md",
+      "dimension": "temporal-experience",
+      "held_out_from_implementation": true,
+      "sha256": "48434cc0a521f5aa297b1a9f4acd91f5792dc2d472dba68738c80bc3201dd53d"
+    },
+    {
+      "id": "B06",
+      "file": "B06.md",
+      "dimension": "construction",
+      "held_out_from_implementation": true,
+      "sha256": "d3ffd36aaacd700c567bc5826e25fa13b60bda5651b6541520b90a24205313cc"
+    }
+  ]
+}

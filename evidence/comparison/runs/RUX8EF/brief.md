@@ -1,0 +1,7 @@
+# B02: Why the canal lock does not need a pump
+Make a compact illustrated interpretive panel for visitors beside a fictional canal lock. Teach the causal mechanism to an interested 12-year-old using a sequence of diagrams and at most 220 explanatory words.
+Supplied mechanics: lower canal level 0 m, upper canal level 3 m; chamber has gates at each end and paddles admitting or releasing water. A boat entering from below is enclosed; lower paddles close; upper paddles admit water; chamber rises until level with upper canal; upper gate opens. Water flows downhill, while the floating boat rises with chamber water. Gates must only open after water levels match. No pump lifts the boat.
+Observable acceptance: viewer can reconstruct the order, identify the source of the lifting water, and explain why opening the upper gate early is wrong. Label levels and distinguish gates from paddles. Static diagrams are sufficient; any interactivity must aid understanding.
+
+## Shared delivery contract
+Produce one self-contained index.html using inline HTML/CSS/SVG/JavaScript and system fonts. No paid services, backend, remote runtime dependencies, or generated-image services. It must open locally and work at 1440x900 and 390x844. Include a short sources.txt with any external references actually consulted. Research is permitted in every arm. Deliver the artifact, not a proposal or self-evaluation. Facts below are fictional supplied content and must remain accurate. Do not substitute a dashboard or landing page for the requested object.

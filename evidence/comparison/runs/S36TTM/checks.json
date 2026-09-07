@@ -1,0 +1,16 @@
+{
+  "verifier": "coordinator, independent of builder; not blind to arm",
+  "checks": {
+    "net": "SVG has contiguous 80x40,80x40,80x40,80x10mm panels, fold boundaries40/80/120; 80x130 total.",
+    "print": "Chrome print PDF one A4 page; inspected rendered page with no clipping.",
+    "calibration_mm_from_pdf_vector": [
+      49.993855368003615
+    ],
+    "copy": "All three required lines visibly inside front panel, not crossing fold or on glue tab.",
+    "assembly": "Instructions identify free top edge of first panel and third-panel/tab fold; glue inside first panel; second panel base. End view or perspective agrees with triangular prism.",
+    "mobile": "390 viewport, scrollWidth390; complete A4 scales down, fine instructions require zoom."
+  },
+  "limitations": [
+    "No physical print, paper cutting, adhesive or stability test. PDF has small browser unit-rounding deviation from exact50mm."
+  ]
+}

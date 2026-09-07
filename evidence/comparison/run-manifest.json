@@ -1,0 +1,105 @@
+{
+  "created": "2026-09-07T01:47:23.974085+00:00",
+  "random_seed": 7092026,
+  "builder_budget_seconds": 180,
+  "verification": "Independent coordinator verification follows build and has identical acceptance scope per brief",
+  "model": "inherited parent model, no per-arm override",
+  "model_configuration_evidence": {
+    "config_model": "gpt-6-astra",
+    "config_reasoning_effort": "low",
+    "note": "Config observed; actual per-call telemetry will be used where available; no guessed runtime override."
+  },
+  "runs": [
+    {
+      "brief": "B01",
+      "arm": "baseline",
+      "label": "DKDYEC",
+      "directory": "work/gauntlet/runs/DKDYEC",
+      "heldout": false
+    },
+    {
+      "brief": "B01",
+      "arm": "reference-work",
+      "label": "T8B3NQ",
+      "directory": "work/gauntlet/runs/T8B3NQ",
+      "heldout": false
+    },
+    {
+      "brief": "B02",
+      "arm": "baseline",
+      "label": "RUX8EF",
+      "directory": "work/gauntlet/runs/RUX8EF",
+      "heldout": false
+    },
+    {
+      "brief": "B02",
+      "arm": "reference-work",
+      "label": "367C3G",
+      "directory": "work/gauntlet/runs/367C3G",
+      "heldout": false
+    },
+    {
+      "brief": "B03",
+      "arm": "baseline",
+      "label": "C3Q44W",
+      "directory": "work/gauntlet/runs/C3Q44W",
+      "heldout": false
+    },
+    {
+      "brief": "B03",
+      "arm": "reference-work",
+      "label": "UK7M9F",
+      "directory": "work/gauntlet/runs/UK7M9F",
+      "heldout": false
+    },
+    {
+      "brief": "B04",
+      "arm": "baseline",
+      "label": "JP7XJC",
+      "directory": "work/gauntlet/runs/JP7XJC",
+      "heldout": false
+    },
+    {
+      "brief": "B04",
+      "arm": "reference-work",
+      "label": "JCZXVT",
+      "directory": "work/gauntlet/runs/JCZXVT",
+      "heldout": false
+    },
+    {
+      "brief": "B04",
+      "arm": "frontend-design",
+      "label": "TZ83KQ",
+      "directory": "work/gauntlet/runs/TZ83KQ",
+      "heldout": false
+    },
+    {
+      "brief": "B05",
+      "arm": "baseline",
+      "label": "FEPW4X",
+      "directory": "work/gauntlet/runs/FEPW4X",
+      "heldout": true
+    },
+    {
+      "brief": "B05",
+      "arm": "reference-work",
+      "label": "9R3CZK",
+      "directory": "work/gauntlet/runs/9R3CZK",
+      "heldout": true
+    },
+    {
+      "brief": "B06",
+      "arm": "reference-work",
+      "label": "S36TTM",
+      "directory": "work/gauntlet/runs/S36TTM",
+      "heldout": true
+    },
+    {
+      "brief": "B06",
+      "arm": "baseline",
+      "label": "T3HZ57",
+      "directory": "work/gauntlet/runs/T3HZ57",
+      "heldout": true
+    }
+  ]
+}

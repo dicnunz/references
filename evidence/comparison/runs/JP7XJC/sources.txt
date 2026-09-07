@@ -1,0 +1,2 @@
+Source: supplied brief.md in this run directory. All firing dates, capacity, and eligibility rules are fictional supplied content.
+No external references consulted. Inline illustration and interface are original.

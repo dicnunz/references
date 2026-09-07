@@ -1,0 +1,15 @@
+{
+  "verifier": "coordinator, independent of builders; not blind to arm",
+  "checks": {
+    "desktop": "1440x900 viewed; full-page screenshot",
+    "mobile": "390x844 viewed; no horizontal overflow (390px scrollWidth)",
+    "mechanism": "4 sequential diagrams; 0m and3m reservoirs fixed, water admitted from upper canal; boat rises with chamber; gates and paddles visually distinct",
+    "causal_text": "Downhill flow, no pump, and equal-level gate condition stated",
+    "word_limit": "Explanatory prose remains under220 words",
+    "interaction": "Static sequence, no interactive control required by brief"
+  },
+  "limitations": [
+    "Diagrams are simplified side views",
+    "No physical apparatus tested"
+  ]
+}

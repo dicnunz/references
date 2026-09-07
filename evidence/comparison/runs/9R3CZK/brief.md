@@ -1,0 +1,7 @@
+# B05: One minute with an imaginary marsh
+Create a one-minute guided noticing experience in a fictional marsh, expressed through typography, simple SVG, and timed changes. No external audio is required. The intended feeling is patient attention, not urgency.
+Sequence: 0–15 seconds notice near reeds; 15–35 notice rings spreading from an unseen movement; 35–50 notice a distant bird crossing; 50–60 return to the whole scene. Each phase needs a short original noticing prompt and an observable scene change. Start must be explicit; include pause/resume, restart, phase indication, and an immediate non-timed reading mode. Respect reduced motion.
+Observable acceptance: all four phases occur in order over one minute, pausing freezes elapsed progress, restarting restores the beginning, and non-timed mode exposes the complete experience without waiting. The transitions should support attention and create a perceptible beginning, development, and ending.
+
+## Shared delivery contract
+Produce one self-contained index.html using inline HTML/CSS/SVG/JavaScript and system fonts. No paid services, backend, remote runtime dependencies, or generated-image services. It must open locally and work at 1440x900 and 390x844. Include a short sources.txt with any external references actually consulted. Research is permitted in every arm. Deliver the artifact, not a proposal or self-evaluation. Facts below are fictional supplied content and must remain accurate. Do not substitute a dashboard or landing page for the requested object.

@@ -1,0 +1,2 @@
+Source: supplied brief.md in this directory. No external sources consulted.
+All landscape imagery and noticing prompts are original and fictional. Inline SVG, CSS, and JavaScript; system fonts only. Browser control unavailable during production; coordinator performs rendered verification.

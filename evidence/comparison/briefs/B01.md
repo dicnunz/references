@@ -1,0 +1,7 @@
+# B01: The last shift at the button factory
+Create an exhibition invitation that also works as a small commemorative keepsake, for former workers and their families. Convey warmth, specificity, and the dignity of skilled repetitive work without nostalgia cliches.
+Required copy: “A Thousand Small Closures”; “Objects and stories from the Vale Button Works”; “Saturday 17 October, 2–5 pm”; “Old Packing Hall, 8 Canal Lane”; “Bring a button, a photograph, or a story. Admission free.” The factory operated 1948–1996 and made coat, shirt, and uniform buttons. Include a short original curatorial paragraph under 70 words and a purposeful visual made from basic shapes or typography.
+Observable acceptance: all visit logistics are immediately findable, commemorative meaning is visible in the composition and copy, and the artifact prints as one coherent page.
+
+## Shared delivery contract
+Produce one self-contained index.html using inline HTML/CSS/SVG/JavaScript and system fonts. No paid services, backend, remote runtime dependencies, or generated-image services. It must open locally and work at 1440x900 and 390x844. Include a short sources.txt with any external references actually consulted. Research is permitted in every arm. Deliver the artifact, not a proposal or self-evaluation. Facts below are fictional supplied content and must remain accurate. Do not substitute a dashboard or landing page for the requested object.

@@ -1,0 +1,4 @@
+Brief: brief.md, supplied fictional content and sequence.
+Reference inspected: Claude Monet, Water Lilies (Agapanthus), Cleveland Museum of Art, https://clevelandart.org/art/1960.81
+Actual image inspected: https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg
+Observed open central water field, sparse horizontal clusters, lower vegetation. Adaptation: original SVG uses an open center and marginal reeds to leave space for timed shifts of attention. No source imagery included in artifact. Limits: digital reproduction only, no physical surface or scale inspection. Browser unavailable; coordinator to render.

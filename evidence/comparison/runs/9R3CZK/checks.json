@@ -1,0 +1,15 @@
+{
+  "verifier": "coordinator, independent of builder; not blind to arm",
+  "checks": {
+    "sequence": "Observed full elapsed minute with captures0,16,44 seconds and completion. Separate real-time run paused at53 seconds directly confirms whole-marsh prompt and bird removed; phase4.png.",
+    "pause": "29 seconds unchanged across later observation, then resumed.",
+    "restart": "Returned to initial scene and Begin state.",
+    "reading": "Immediate all four observations; reading and timed mobile no overflow.",
+    "mobile": "390 wide, scrollWidth390; timed and reading screenshots viewed.",
+    "reduced_motion": "Source branch uses static reed, ring and bird geometry for reduced-motion. Runtime emulation not performed."
+  },
+  "limitations": [
+    "No continuous video recording; full-duration run inspected through timed captures and DOM observations.",
+    "No sound required or assessed."
+  ]
+}

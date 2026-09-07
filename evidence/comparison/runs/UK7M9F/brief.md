@@ -1,0 +1,7 @@
+# B03: A night archivist’s misplaced objects
+Create a compact illustrated finding aid for a fictional collection, used by an archivist locating objects rather than browsing marketing cards. Include a room/shelf location map or equivalent spatial key and a useful index.
+Records (id | object | year | material | location): A1 | ferry token | 1912 | brass | East 1; A2 | orchard tally | 1938 | wood | West 2; A3 | rain gauge log | 1954 | paper | East 3; A4 | theatre cue bell | 1921 | brass | West 1; A5 | seed envelope | 1946 | paper | West 2; A6 | net mending shuttle | 1908 | wood | East 1; A7 | tram timetable | 1932 | paper | East 3; A8 | glass float | 1927 | glass | West 1.
+Observable acceptance: find all brass objects, the oldest object, and everything on West 2; each record retains all five fields; map and index agree. Organization must make these tasks easy without requiring search typing.
+
+## Shared delivery contract
+Produce one self-contained index.html using inline HTML/CSS/SVG/JavaScript and system fonts. No paid services, backend, remote runtime dependencies, or generated-image services. It must open locally and work at 1440x900 and 390x844. Include a short sources.txt with any external references actually consulted. Research is permitted in every arm. Deliver the artifact, not a proposal or self-evaluation. Facts below are fictional supplied content and must remain accurate. Do not substitute a dashboard or landing page for the requested object.

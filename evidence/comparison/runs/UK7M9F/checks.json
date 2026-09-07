@@ -1,0 +1,15 @@
+{
+  "verifier": "coordinator, independent of builders; not blind to arm",
+  "checks": {
+    "desktop": "1440x900 screenshot and DOM inspected",
+    "mobile": "390x844, no horizontal overflow; full-page screenshot",
+    "records": "All8 supplied records retain id, object, year, material, location",
+    "brass": "Action returns A1 and A4",
+    "oldest": "Earliest action sorts all8 and explicitly identifies A6 as earliest",
+    "west2": "Action returns A2 and A5; map agrees with register",
+    "recovery": "All objects/clear restores all8"
+  },
+  "limitations": [
+    "Identification sketches not physical artifact measurements"
+  ]
+}

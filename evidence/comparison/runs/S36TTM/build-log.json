@@ -1,0 +1,7 @@
+{
+  "start_utc": "2026-09-07T02:14:26+00:00",
+  "end_utc": "2026-09-07T02:17:05.988328+00:00",
+  "elapsed_seconds": 159.988328,
+  "validation": "SVG XML parsed successfully. All four panel dimensions and offsets, A4 physical size, required copy and static print rules checked. No browser or physical assembly test.",
+  "artifact": "index.html"
+}

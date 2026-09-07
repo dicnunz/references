@@ -1,0 +1,11 @@
+{
+  "start_utc": "2026-09-07T02:14:35+00:00",
+  "end_utc": "2026-09-07T02:16:52.879611+00:00",
+  "elapsed_seconds": 137.879611,
+  "checks": [
+    "SVG parses as XML",
+    "A4 physical SVG dimensions",
+    "Four contiguous panels have required dimensions",
+    "Required specimen copy present"
+  ]
+}

@@ -1,0 +1,4 @@
+Source: brief.md in this directory, supplied task content and geometric requirements.
+No external sources consulted. All specimen wording is supplied fictional content.
+Geometry: three 80 × 40 mm rectangles plus an 80 × 10 mm tab; assembled equilateral cross-section height = 40 × sqrt(3) / 2 ≈ 34.64 mm.
+Limits: physical printer scaling and assembly were not tested. Browser rendering is deferred to the coordinator. Assembled view is a schematic perspective, not a measurement reference.

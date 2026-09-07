@@ -1,0 +1,16 @@
+{
+  "verifier": "coordinator, independent of builder; not blind to arm",
+  "checks": {
+    "net": "SVG has contiguous 80x40,80x40,80x40,80x10mm panels, fold boundaries40/80/120; 80x130 total.",
+    "print": "Chrome print PDF one A4 page; inspected rendered page with no clipping.",
+    "calibration_mm_from_pdf_vector": [
+      49.993855368003615
+    ],
+    "copy": "All three required lines visibly inside front panel, not crossing fold or on glue tab.",
+    "assembly": "Joining instructions and underlying prism geometry agree with net. Visible perspective faces overlap, producing a misleading internal seam. Blind critics identified this; coordinator reproduced in SVG path ordering and print.",
+    "mobile": "390 viewport, scrollWidth390; complete A4 scales down, fine instructions require zoom."
+  },
+  "limitations": [
+    "No physical print, paper cutting, adhesive or stability test. PDF has small browser unit-rounding deviation from exact50mm."
+  ]
+}

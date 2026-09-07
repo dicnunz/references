@@ -1,0 +1,7 @@
+# B04: Reserve a community kiln shelf
+Build a working local booking interaction for a community pottery kiln. User chooses a firing and shelf allocation, sees eligibility and capacity, and receives a clear local confirmation with an edit path. No actual booking is sent.
+Rules: Bisque on 12 November, 3 half-shelves free, accepts dry greenware only; Glaze on 15 November, 2 half-shelves free, accepts bisque-fired pieces only. A booking uses 1 or 2 half-shelves. Name is required. Clay status choices are wet, dry greenware, bisque-fired. Wet pieces cannot be booked. A confirmation shows name, firing, date, status, and allocation, and says “Saved for this session only.”
+Observable acceptance: valid bookings succeed; each incompatible status fails with a useful recovery; invalid input preserves entered values; edit returns to populated inputs; keyboard operation works; no false persistence or capacity claims. The experience should feel like a clear community workshop service.
+
+## Shared delivery contract
+Produce one self-contained index.html using inline HTML/CSS/SVG/JavaScript and system fonts. No paid services, backend, remote runtime dependencies, or generated-image services. It must open locally and work at 1440x900 and 390x844. Include a short sources.txt with any external references actually consulted. Research is permitted in every arm. Deliver the artifact, not a proposal or self-evaluation. Facts below are fictional supplied content and must remain accurate. Do not substitute a dashboard or landing page for the requested object.

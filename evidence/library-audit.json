@@ -1,0 +1,49 @@
+{
+  "catalog_records": 1165,
+  "inspected_works": 120,
+  "inspected_collections": 24,
+  "catalog_by_collection": {
+    "aozora": 5,
+    "artic": 500,
+    "cabinet": 5,
+    "ciechanowski": 5,
+    "cleveland": 400,
+    "emergence": 5,
+    "exploratorium": 5,
+    "getty": 45,
+    "lowtech": 5,
+    "ncase": 5,
+    "nga": 45,
+    "nintendo-ask": 5,
+    "public-domain-review": 5,
+    "pudding": 5,
+    "redblob": 5,
+    "rijksmuseum": 5,
+    "cooper-hewitt": 5,
+    "asian-art": 5,
+    "nmafa": 5,
+    "nmah": 5,
+    "tepapa": 5,
+    "walters": 40,
+    "wellcome": 40,
+    "wikisource-fr": 5,
+    "works-in-progress": 5
+  },
+  "inspection_by_method": {
+    "text": 50,
+    "image": 55,
+    "browser-interaction": 14,
+    "text-and-image": 1
+  },
+  "inspected_languages": {
+    "ja": 10,
+    "en": 61,
+    "it": 1,
+    "la": 1,
+    "nl": 1,
+    "de": 1,
+    "fr": 5
+  },
+  "missing_creator_records": 283,
+  "known_family_records": 0
+}

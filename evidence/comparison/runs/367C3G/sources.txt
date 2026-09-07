@@ -1,0 +1,5 @@
+Supplied brief: fictional lock mechanics and 0 m / 3 m levels.
+River Wey Trust, About Locks. https://www.riverweytrust.org.uk/resources/lessons/locks.php
+Inspected webpage text, sections 1 and 2, on 2026-09-07. Functional color distinctions in model instructions informed distinct gate and paddle symbols. Original diagrams created for this brief. Slideshow and model images were not inspected.
+Discovery search consulted Canal & River Trust search excerpts: https://canalrivertrust.org.uk/canals-and-rivers/how-does-a-canal-lock-work
+Regent's Canal Heritage PDF attempted but fetch failed; not used: https://www.regentscanalheritage.org.uk/wp-content/uploads/2020/08/How-the-Locks-Work.pdf

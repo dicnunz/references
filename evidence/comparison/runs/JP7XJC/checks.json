@@ -1,0 +1,17 @@
+{
+  "verifier": "coordinator, independent of builder; not blind to arm",
+  "checks": {
+    "desktop": "1440x900 viewed",
+    "mobile": "390x844, no horizontal overflow; full-page form and confirmation screenshots",
+    "required_name": "Empty name and status rejected with recovery message",
+    "incompatible": "Bisque+wet, Bisque+bisque-fired, Glaze+wet, Glaze+dry-greenware rejected with status-specific recovery",
+    "preservation": "Test Potter and2half-shelves persisted across invalid submissions",
+    "valid": "Glaze+bisque-fired+2 and Bisque+dry-greenware+1 both confirmed correct name,date,status,allocation",
+    "edit": "Returns populated firing,name,status,allocation",
+    "keyboard": "Space activates radio; Enter submits and edits; Tab from name reaches status",
+    "persistence": "States no actual capacity reservation; session-only wording and reload-clears behavior checked"
+  },
+  "limitations": [
+    "Local form only, no server or real kiln reservation"
+  ]
+}

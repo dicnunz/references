@@ -1,0 +1,218 @@
+[
+  {
+    "id": "aozora",
+    "name": "Aozora Bunko",
+    "url": "https://www.aozora.gr.jp/",
+    "route": "Browse author cards, then the XHTML reading file and bibliographic footer. Five Japanese originals; original dates and digitization dates are kept separate."
+  },
+  {
+    "id": "artic",
+    "name": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/collection",
+    "discovery_url": "https://www.artic.edu/collection",
+    "api_url": "https://api.artic.edu/api/v1/artworks",
+    "rights_policy_url": "https://www.artic.edu/open-access/open-access-images",
+    "rights_note": "Selected primary records individually have is_public_domain=true; open-access image policy licenses these images under CC0.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "asian-art",
+    "name": "National Museum of Asian Art, Smithsonian Institution",
+    "source_url": "https://asia.si.edu/explore-art-culture/collections/",
+    "discovery_url": "https://asia.si.edu/explore-art-culture/collections/",
+    "api_url": "https://github.com/Smithsonian/OpenAccess/tree/master/metadata/edan/fsg",
+    "rights_policy_url": "https://www.si.edu/openaccess",
+    "rights_note": "Each downloaded media entry individually marked CC0 in primary EDAN records.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "cabinet",
+    "name": "Cabinet",
+    "url": "https://www.cabinetmagazine.org/",
+    "route": "Follow selected freely readable essays from the publisher homepage into issues 68–71; use issue and contributor links for further discovery. This batch reads five essays without accessing subscriber-only material and records textual craft, not inspection of reproduced objects."
+  },
+  {
+    "id": "ciechanowski",
+    "name": "Bartosz Ciechanowski",
+    "url": "https://ciechanow.ski/archives/",
+    "route": "Choose a specific explanation by underlying mechanism; inspect and manipulate the relevant local demonstration."
+  },
+  {
+    "id": "cleveland",
+    "name": "Cleveland Museum of Art",
+    "source_url": "https://www.clevelandart.org/art/collection",
+    "discovery_url": "https://www.clevelandart.org/art/collection/search",
+    "api_url": "https://openaccess-api.clevelandart.org/api/artworks/",
+    "rights_policy_url": "https://www.clevelandart.org/open-access",
+    "rights_note": "Each selected item was checked against the primary API export share_license_status field and is CC0.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "cooper-hewitt",
+    "name": "Cooper Hewitt, Smithsonian Design Museum",
+    "source_url": "https://collection.cooperhewitt.org/",
+    "discovery_url": "https://collections.si.edu/search/",
+    "api_url": "https://apidocs.cooperhewitt.org/the-api/",
+    "bulk_metadata_url": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/chndm/00.txt",
+    "rights_policy_url": "https://www.si.edu/openaccess",
+    "rights_note": "Media permissions checked individually in primary Smithsonian EDAN records. Only first media entries marked CC0 were downloaded. Metadata permission alone was not used to clear images.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "emergence",
+    "name": "Emergence Magazine",
+    "url": "https://emergencemagazine.org/",
+    "route": "Follow homepage essays and search the publisher’s essay archive by language, memory, food, and place. This batch reads five primary essay pages dated 2020–2026; all observations concern text, including embedded poems and recipe instructions, with no audio, film, or artwork inspection claimed."
+  },
+  {
+    "id": "exploratorium",
+    "name": "Exploratorium",
+    "url": "https://annex.exploratorium.edu/xref/exhibits/exhibit_index.html",
+    "route": "Browse exhibit concepts and follow linked descriptions; inspect published documents. Treat physical behavior claims as descriptions until observed."
+  },
+  {
+    "id": "getty",
+    "name": "J. Paul Getty Museum",
+    "source_url": "https://www.getty.edu/art/collection/",
+    "discovery_url": "https://www.getty.edu/art/collection/",
+    "api_url": "https://data.getty.edu/museum/collection/docs/",
+    "rights_policy_url": "https://data.getty.edu/museum/collection/docs/#usage-guidelines",
+    "rights_note": "Each inspected image checked in the referenced media VisualItem for CC0. Additional records are link-only and uninspected.",
+    "inspected_count": 5,
+    "additional_cataloged_count": 40,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "lowtech",
+    "name": "Low-tech Magazine",
+    "url": "https://solar.lowtechmagazine.com/tags/diy/",
+    "route": "Browse themes, dates and translations; follow documented builds and their sources. Solar server can be temporarily offline."
+  },
+  {
+    "id": "ncase",
+    "name": "Nicky Case",
+    "url": "https://ncase.me/",
+    "route": "Browse Play, Read, Watch, all projects, and archive. Follow credited collaborators and original inspirations; translations are variants of the same work. Verify the actual relevant sequence and contribution rights."
+  },
+  {
+    "id": "nga",
+    "name": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks",
+    "discovery_url": "https://www.nga.gov/artworks",
+    "api_url": "https://github.com/NationalGalleryOfArt/opendata",
+    "rights_policy_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+    "rights_note": "Each selected image individually has openaccess=1 in primary published_images.csv, joined by depictstmsobjectid.",
+    "inspected_count": 5,
+    "additional_cataloged_count": 40,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "nintendo-ask",
+    "name": "Nintendo Ask the Developer",
+    "url": "https://www.nintendo.com/en-gb/News/Ask-the-Developer/Ask-the-Developer-2399709.html",
+    "route": "Browse the official Ask the Developer index and follow volume and part links. This batch selects five distinct product interviews from official regional Nintendo sites; dates follow the inspected regional page. All observations concern interview text."
+  },
+  {
+    "id": "nmafa",
+    "name": "National Museum of African Art, Smithsonian Institution",
+    "source_url": "https://africa.si.edu/collection",
+    "discovery_url": "https://africa.si.edu/collection",
+    "api_url": "https://github.com/Smithsonian/OpenAccess/tree/master/metadata/edan/nmafa",
+    "bulk_metadata_url": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmafa/",
+    "rights_policy_url": "https://www.si.edu/openaccess",
+    "rights_note": "Individual first-media CC0 permissions verified in Smithsonian EDAN shards; no museum-wide clearance inferred. Provenance retained as provided, without completing unknown intervals.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "nmah",
+    "name": "National Museum of American History, Smithsonian Institution",
+    "source_url": "https://americanhistory.si.edu/collections",
+    "discovery_url": "https://americanhistory.si.edu/collections",
+    "api_url": "https://github.com/Smithsonian/OpenAccess/tree/master/metadata/edan/nmah",
+    "bulk_metadata_url": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt",
+    "rights_policy_url": "https://www.si.edu/openaccess",
+    "rights_note": "Individual first-media CC0 status checked in primary EDAN records. Unknown creation dates left null; patent date retained separately.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "public-domain-review",
+    "name": "The Public Domain Review",
+    "url": "https://publicdomainreview.org/collections/",
+    "route": "Browse Collections by medium, epoch, or theme, then follow individual collection posts and their source links. This batch inspects five modern collection essays; dates and authors refer to those essays, not the historical objects. Image-rights labels do not automatically cover modern editorial text."
+  },
+  {
+    "id": "pudding",
+    "name": "The Pudding",
+    "url": "https://pudding.cool/",
+    "route": "Browse the publisher homepage chronologically, then follow individual story links. This batch follows five 2025–2026 stories and inspects their narrative text. Publication dates use the homepage month; interactive behavior was not tested."
+  },
+  {
+    "id": "redblob",
+    "name": "Red Blob Games",
+    "url": "https://www.redblobgames.com/",
+    "route": "Explore Learn, Play, and Ponder independently; follow making-of links and credited inspirations. Select by the unresolved construction or interaction property, then operate the relevant demo."
+  },
+  {
+    "id": "rijksmuseum",
+    "name": "Rijksmuseum",
+    "source_url": "https://www.rijksmuseum.nl/en/collection",
+    "discovery_url": "https://www.rijksmuseum.nl/en/collection",
+    "api_url": "https://data.rijksmuseum.nl/",
+    "rights_policy_url": "https://www.rijksmuseum.nl/en/rijksstudio/photographic-services",
+    "rights_note": "Followed object Linked Art shows -> VisualItem (individual Public Domain Mark) -> digitally_shown_by -> DigitalObject -> IIIF access_point. Retained all three primary records per object.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "tepapa",
+    "name": "Museum of New Zealand Te Papa Tongarewa",
+    "source_url": "https://collections.tepapa.govt.nz/",
+    "discovery_url": "https://collections.tepapa.govt.nz/",
+    "api_url": "https://data.tepapa.govt.nz/docs/",
+    "rights_policy_url": "https://collections.tepapa.govt.nz/",
+    "rights_note": "Each selected primary image expressly has No Known Copyright Restrictions and a download option; this is retained as a distinct rights status rather than CC0.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07"
+  },
+  {
+    "id": "walters",
+    "name": "Walters Art Museum",
+    "source_url": "https://art.thewalters.org/",
+    "discovery_url": "https://art.thewalters.org/",
+    "api_url": "https://github.com/WaltersArtMuseum/api-thewalters-org",
+    "rights_policy_url": "https://thewalters.org/about/policies/rights-reproductions/",
+    "inspected_count": 0,
+    "additional_cataloged_count": 40,
+    "access_note": "Primary static CSV accessible; image host returned Cloudflare challenge, so no inspections claimed."
+  },
+  {
+    "id": "wellcome",
+    "name": "Wellcome Collection",
+    "source_url": "https://wellcomecollection.org/",
+    "discovery_url": "https://wellcomecollection.org/search/works",
+    "api_url": "https://api.wellcomecollection.org/catalogue/v2/works",
+    "rights_policy_url": "https://wellcomecollection.org/collections/using-the-collections",
+    "rights_note": "Selected thumbnails and their digital image locations individually carry Public Domain Mark. CC BY search hits are cataloged link-only and were not downloaded.",
+    "inspected_count": 5,
+    "inspection_date": "2026-09-07",
+    "additional_cataloged_count": 35
+  },
+  {
+    "id": "wikisource-fr",
+    "name": "Wikisource français",
+    "url": "https://fr.wikisource.org/",
+    "route": "Follow work disambiguation pages to specific French editions. Read complete short poems and fables with their edition headers; links target the inspected edition."
+  },
+  {
+    "id": "works-in-progress",
+    "name": "Works in Progress",
+    "url": "https://worksinprogress.co/",
+    "route": "Browse the publisher homepage and archive by issue and topic, then inspect original articles. This batch selects construction, manufacturing, infrastructure, and institutional histories; publication-era claims are not current operational advice."
+  }
+]

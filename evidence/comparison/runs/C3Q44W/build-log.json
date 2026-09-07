@@ -1,0 +1,10 @@
+{
+  "start_utc": "2026-09-07T01:54:05Z",
+  "end_utc": "2026-09-07T01:56:41.387248+00:00",
+  "external_sources_consulted": false,
+  "checks": [
+    "Eight source records present",
+    "Responsive viewport present"
+  ],
+  "browser_verification": "Reserved for independent coordinator"
+}

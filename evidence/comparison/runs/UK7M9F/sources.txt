@@ -1,0 +1,5 @@
+Supplied brief: all fictional object records and locating requirements.
+Yale University Library, Guide to the Yale Objects Collection, pages 3–5 (text extraction inspected): https://ead-pdfs.library.yale.edu/2771.pdf
+Adaptation: stable object IDs, parallel description/date/location register. All SVG object sketches are original.
+Discovery search: site.archives.yale.edu finding aid container inventory collection.
+Attempted National Archives page https://www.archives.gov/research/archives-library-principles could not be opened; no content borrowed.

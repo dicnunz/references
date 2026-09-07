@@ -1,0 +1,1 @@
+No external sources consulted. Content and booking rules are from the supplied brief.md. Design guidance: supplied comparator/SKILL.md. All graphics are inline SVG created for this page.

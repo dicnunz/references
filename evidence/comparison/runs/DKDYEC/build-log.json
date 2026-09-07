@@ -1,0 +1,10 @@
+{
+  "start_utc": "2026-09-07 01:48:19 UTC",
+  "end_utc": "2026-09-07 01:50:44 UTC",
+  "checks": [
+    "Required copy present",
+    "Curatorial paragraph under 70 words",
+    "Inline CSS and SVG; no remote dependencies"
+  ],
+  "curatorial_word_count": 51
+}

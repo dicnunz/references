@@ -1,0 +1,15 @@
+{
+  "verifier": "coordinator, independent of builder; not blind to arm",
+  "checks": {
+    "sequence": "Observed full elapsed minute, phase captures at 0,27,45,54 seconds and complete 60. Four prompts and scene changes in correct order.",
+    "pause": "Paused at 34 seconds; remained 34 across later observation; resumed successfully. SVG motion driven by frozen elapsed value.",
+    "restart": "Returned to before-begin, 0:00, initial scene, restart disabled.",
+    "reading": "Immediate complete four-prompt reading mode with static mini-scenes; returns to timer.",
+    "mobile": "390 wide, scrollWidth390; timed and reading screenshots viewed.",
+    "reduced_motion": "Source branch uses static reed, ring and bird geometry for reduced-motion. Runtime emulation not performed."
+  },
+  "limitations": [
+    "No continuous video recording; full-duration run inspected through timed captures and DOM observations.",
+    "No sound required or assessed."
+  ]
+}

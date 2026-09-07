@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference Work"
+  short_description: "Develop creative work through inspected references"
+  default_prompt: "Use $reference-work to ground this task in inspected sources and carry their useful principles into the finished work."

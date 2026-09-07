@@ -1,0 +1,10 @@
+{
+  "start_utc": "2026-09-07T01:51:31Z",
+  "end_utc": "2026-09-07T01:53:54.498467+00:00",
+  "checks": [
+    "Three numbered diagrams with fixed lower and upper levels",
+    "Inline SVG, CSS and JavaScript; no runtime dependencies",
+    "Responsive single-column sequence at narrow viewport"
+  ],
+  "verification_limit": "Shared browser verification assigned to independent coordinator"
+}
