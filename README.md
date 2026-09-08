@@ -1,6 +1,6 @@
 # Reference Work
 
-A portable Codex skill for developing creative work through inspected references. It connects source properties to concrete choices in meaning, structure, expression, material, rhythm, behavior, and construction.
+A Codex skill and searchable reference library for creative work. It records which sources were inspected and how they informed the result.
 
 [Browse the library](https://dicnunz.github.io/reference-work/library.html) · [Compare the artifacts](https://dicnunz.github.io/reference-work/evidence/comparison/index.html) · [Read the evidence](evidence/report.md)
 
