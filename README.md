@@ -1,8 +1,8 @@
-# Commonplace
+# References
 
 A Codex skill and searchable reference library for creative work. It records which sources were inspected and how they informed the result.
 
-[Browse the library](https://dicnunz.github.io/commonplace/library.html) · [Compare the artifacts](https://dicnunz.github.io/commonplace/evidence/comparison/index.html) · [Read the evidence](evidence/report.md)
+[Browse the library](https://dicnunz.github.io/references/library.html) · [Compare the artifacts](https://dicnunz.github.io/references/evidence/comparison/index.html) · [Read the evidence](evidence/report.md)
 
 The package contains **120 inspected works across 24 collections**, **1,165 searchable records**, and **56 image previews**. The six-pair evaluation found specific improvements and regressions; it does **not establish an overall advantage**. Source notes identify exactly what was inspected and what remains unverified.
 
@@ -11,7 +11,7 @@ The package contains **120 inspected works across 24 collections**, **1,165 sear
 Requires Python 3.9 or newer. The helper uses only the standard library and needs no API key.
 
 ```sh
-git clone https://github.com/dicnunz/commonplace.git ~/.codex/skills/reference-work
+git clone https://github.com/dicnunz/references.git ~/.codex/skills/reference-work
 ```
 
 Alternatively, copy this repository into your agent's skill directory, retaining `SKILL.md`, `agents`, `scripts`, `references`, and `assets`. Start a new Codex task so it can discover the skill, then invoke:
