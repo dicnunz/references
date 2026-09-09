@@ -39,5 +39,3 @@ History lives outside the installation, at `$XDG_STATE_HOME/reference-work` or `
 The [evidence report](evidence/report.md) includes every initial comparison, blind critiques, physical and temporal verification limits, library concentration, and recorded usage. [Development sources](references/development.md) explain the package's own reference process. [Plumbing checks](scripts/check_plumbing.py) verify mechanics, not creative quality.
 
 Original code and authored instructions are [MIT licensed](LICENSE). Third-party works retain their own rights; consult [attributions](ATTRIBUTIONS.md) and per-record evidence. Link-only works are not bundled copies. Audio has a separately labeled, unauditioned [discovery supplement](evidence/audio.html).
-
-The browser library is named Mnemosyne, after [Warburg’s image panels](https://warburg.sas.ac.uk/library-collections/warburg-institute-archive/archive-collections/verknupfungszwang/mnemosyne-atlas). Its board and list views share the same source records and inspection notes.
